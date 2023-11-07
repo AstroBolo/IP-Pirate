@@ -1,11 +1,13 @@
 # IP-Pirate
 
-IP-Pirate is a python based IP Lookup Software
+IP-Pirate is a Python based IP Lookup Software
 
-Usage:
-<br>git clone https://github.com/AstroBolo/IP-Pirate.git
-<br>cd IP-Pirate
-<br>pip3 install -r requirements.txt
-<br>python3 main.py
+# Setup
 
-![image](https://raw.githubusercontent.com/AstroBolo/IP-Pirate/main/image.png)
+1. `git clone https://github.com/AstroBolo/IP-Pirate.git`
+2. `cd IP-Pirate`
+3. `pip3 install -r requirements.txt`
+
+After Installation, you may run `python3 main.py` and then Input the IP to scan.
+
+![image](https://i.ibb.co/qR3zDzG/py-cb-HSWPQfg-W.gif)
